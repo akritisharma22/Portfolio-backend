@@ -164,14 +164,6 @@ export default router;
 
 
 
-// {
-//     "name" : "Bhishan Bhandari",
-//     "email" : "bbhishan123@gmail.com",
-//     "phone": "9952635511",
-//     "work": "web dev",
-//     "password": "123Ak",
-//     "cpassword": "123Ak"
-// }
 
 
 
